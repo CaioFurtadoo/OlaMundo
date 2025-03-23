@@ -32,7 +32,7 @@ export const SobreMim = () => {
                 </p>
 
                 <p className={styles.paragrafo}>
-                Até o exato momento tive um desenvolvimento incrivel, obtendo diversos certificados, principalmente quando se trata de desenvolvimento web! por exemplo em React, JavaScript, TypeScript, HTML, CSS, UI UX, Figma, dentre muitos outros!
+                Até o exato momento tive um desenvolvimento incrivel, obtendo diversos certificados, principalmente quando se trata de desenvolvimento web! por exemplo em React, Next, Tailwind, Styled Components, JavaScript, TypeScript, HTML, CSS, UI UX, Figma, dentre muitos outros!
                 </p>
 
                 <p className={styles.paragrafo}>

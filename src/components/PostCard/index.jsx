@@ -7,7 +7,7 @@ export const PostCard = (props) => {
         <Link to={`/posts/${props.post.id}`}>
         <div className={styles.post}>
             <img 
-                src={`../../../public/${props.post.id}/capa.png`}
+                src={`../../../${props.post.id}/capa.png`}
                 alt="" 
                 className={styles.capa} 
             />

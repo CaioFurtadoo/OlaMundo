@@ -22,7 +22,7 @@ export const Post = () => {
         <Routes>
             <Route path='*' element={<PaginaPadrao />}>
             <Route index element={        <PostModelo 
-        fotoCapa={`../../../public/${post.id}/capa.png`}
+        fotoCapa={`../../../${post.id}/capa.png`}
         titulo={post.titulo}
         >
             <div className='post-markdown-container'>
